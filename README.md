@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to storybooks 👋</h1>
+<h1 align="center">Welcome to myStoryBooks 👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/storybooks" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/storybooks.svg">
@@ -37,10 +37,10 @@ npm run test
 
 👤 **Logan Brock**
 
-* Website: logangbrock.com
-* Twitter: [@lifeisagarden23](https://twitter.com/lifeisagarden23)
-* Github: [@lgbrock](https://github.com/lgbrock)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/loganbrock\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/loganbrock\/)
+- Website: logangbrock.com
+- Twitter: [@lifeisagarden23](https://twitter.com/lifeisagarden23)
+- Github: [@lgbrock](https://github.com/lgbrock)
+- LinkedIn: [@https:\/\/www.linkedin.com\/in\/loganbrock\/](https://linkedin.com/in/https://www.linkedin.com/in/loganbrock/)
 
 ## Show your support
 
@@ -51,5 +51,6 @@ Give a ⭐️ if this project helped you!
 Copyright © 2021 [Logan Brock](https://github.com/lgbrock).<br />
 This project is [MIT](https://tlo.mit.edu/learn-about-intellectual-property/software-and-open-source-licensing) licensed.
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
