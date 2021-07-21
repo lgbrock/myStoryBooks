@@ -50,7 +50,3 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2021 [Logan Brock](https://github.com/lgbrock).<br />
 This project is [MIT](https://tlo.mit.edu/learn-about-intellectual-property/software-and-open-source-licensing) licensed.
-
----
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
