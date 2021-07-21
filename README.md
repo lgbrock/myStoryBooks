@@ -40,7 +40,7 @@ npm run test
 - Website: logangbrock.com
 - Twitter: [@lifeisagarden23](https://twitter.com/lifeisagarden23)
 - Github: [@lgbrock](https://github.com/lgbrock)
-- LinkedIn: [@https:\/\/www.linkedin.com\/in\/loganbrock\/](https://linkedin.com/in/https://www.linkedin.com/in/loganbrock/)
+- LinkedIn: [@loganbrock](https://linkedin.com/in/https://www.linkedin.com/in/loganbrock/)
 
 ## Show your support
 
